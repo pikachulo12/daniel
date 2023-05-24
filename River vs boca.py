@@ -37,3 +37,7 @@ for enfrentamiento in enfrentamientos:
 print("\nPuntaje total:")
 print(f"River Plate: {river_puntaje} puntos")
 print(f"Boca Juniors: {boca_puntaje} puntos")
+#Danny_urbina
+#Copa libertadores
+#IEM_ESCUELA_NORMAL_PASTO
+#11-1
